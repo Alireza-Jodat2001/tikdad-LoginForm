@@ -32,8 +32,9 @@
 }
 .logo {
     text-align: center;
-    font-size: 50px;
-    color: #4b0082;
+}
+.logo img {
+    width: 140px;
 }
 .sign-up > input {
     color: #000;
